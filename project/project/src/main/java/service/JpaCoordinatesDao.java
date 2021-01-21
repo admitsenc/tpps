@@ -1,5 +1,3 @@
-package project;
-
 import java.util.List;
 
 public class JpaCoordinatesDao extends JpaBase implements CoordinatesDao {
