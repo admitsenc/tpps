@@ -1,5 +1,3 @@
-package project;
-
 import a.danylenko.microcontroller.automatization.project.data.entities.State;
 import org.springframework.data.jpa.repository.JpaRepository;
 
