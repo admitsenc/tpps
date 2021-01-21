@@ -1,5 +1,3 @@
-package project;
-
 import java.util.List;
 
 public class JpaWorkoutDao extends JpaBase implements WorkoutDao {
