@@ -1,5 +1,3 @@
-package project;
-
 import java.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
