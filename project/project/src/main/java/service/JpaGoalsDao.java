@@ -1,5 +1,3 @@
-package project;
-
 import java.util.List;
 
 public class JpaGoalsDao extends JpaBase implements GoalsDao {
