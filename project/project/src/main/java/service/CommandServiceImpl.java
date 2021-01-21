@@ -1,5 +1,3 @@
-package project;
-
 public class CommandServiceImpl implements CommandService {
 	  private static final Logger LOG = LoggerFactory.getLogger(CommandServiceImpl.class);
 	  private final DeviceService deviceService;
