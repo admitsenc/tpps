@@ -1,5 +1,3 @@
-package project;
-
 import static org.junit.Assert.assertEquals;
 
 import java.math.BigDecimal;
