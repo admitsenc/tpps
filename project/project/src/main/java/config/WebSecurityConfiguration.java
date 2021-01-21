@@ -1,5 +1,3 @@
-package project;
-
 @EnableWebSecurity
 @Configuration
 public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter {
