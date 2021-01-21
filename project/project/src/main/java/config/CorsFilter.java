@@ -1,5 +1,3 @@
-package project;
-
 @Component
 @Order(Ordered.HIGHEST_PRECEDENCE)
 public class CorsFilter implements Filter {
