@@ -1,5 +1,3 @@
-package project;
-
 @Configuration
 public class Beans {
   @Bean
