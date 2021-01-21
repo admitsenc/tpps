@@ -1,5 +1,3 @@
-package project;
-
 public interface UserGoalsDao {
 	public List<UserGoals> getUserGoalsList(int userId, int o, int limit);
 	public List<UserGoals> getUserGoalsByStatus(int userId, String status);
