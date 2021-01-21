@@ -1,5 +1,3 @@
-package project;
-
 public class NodeServiceImpl implements NodeService {
 	  private final Logger LOG = LoggerFactory.getLogger(NodeServiceImpl.class);
 	  private final NodeRepository nodeRepository;
