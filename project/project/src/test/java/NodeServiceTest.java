@@ -1,5 +1,3 @@
-package project;
-
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @DataJpaTest
