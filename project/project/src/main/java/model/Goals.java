@@ -1,5 +1,3 @@
-package project;
-
 @Entity
 @Table(name = "goals")
 @AttributeOverride(name = "id", column = @Column(name = "goals_id", nullable = false))
