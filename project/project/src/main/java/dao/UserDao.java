@@ -1,5 +1,3 @@
-package project;
-
 public interface UserDao {
 	public User registerUser(String email, String password, String firstName, String lastName) throws ApplicationException;
 	public User getUserByLogin(String login) throws ApplicationException;
