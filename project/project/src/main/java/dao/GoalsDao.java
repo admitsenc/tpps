@@ -1,5 +1,3 @@
-package project;
-
 public interface GoalsDao {
 	public List<Goals> getGoalsList();
 	public Goals getGoalById(int goalId) throws ApplicationException;
