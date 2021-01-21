@@ -1,5 +1,3 @@
-package project;
-
 public class StateServiceImpl implements StateService {
 	  private static final Logger LOG = LoggerFactory.getLogger(StateServiceImpl.class);
 	  private final StateRepository stateRepository;
