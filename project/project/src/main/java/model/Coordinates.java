@@ -1,5 +1,3 @@
-package project;
-
 @Entity
 @Table(name = "workout_coordinates")
 @AttributeOverride(name = "id", column = @Column(name = "coordinates_id", nullable = false))
