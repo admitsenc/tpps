@@ -1,5 +1,3 @@
-package project;
-
 public class DeviceServiceImpl implements DeviceService {
 	  private static final Logger LOG = LoggerFactory.getLogger(DeviceServiceImpl.class);
 
