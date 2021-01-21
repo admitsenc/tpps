@@ -1,5 +1,3 @@
-package project;
-
 @Configuration
 @EnableSwagger2
 public class SwaggerConfig {
