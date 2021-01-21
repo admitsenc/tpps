@@ -1,5 +1,3 @@
-package project;
-
 public final class ResponseService {
 	  private ResponseService() {
 	    //hide default constructor
