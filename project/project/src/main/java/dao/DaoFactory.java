@@ -1,5 +1,3 @@
-package project;
-
 public interface DaoFactory {
 	public UserDao createUserDao();
 	public WorkoutDao createWorkoutDao();
