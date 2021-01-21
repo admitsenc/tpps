@@ -1,5 +1,3 @@
-package project;
-
 public interface NodeRepository extends JpaRepository<Node, String> {
 	  Node findByUrlAndUserId(final String url, final String userId);
 
